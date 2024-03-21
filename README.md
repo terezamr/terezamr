@@ -1,4 +1,4 @@
-Coding student at 42 Lisbon, with a BEng in Mechanical Engineering. Currently working on [CPP_Modules](https://github.com/terezamr/Cpp_Modules) (one of 42's common core project).
+Coding student at 42 Lisbon, with a BEng in Mechanical Engineering. Currently working on [CPP_Modules](https://github.com/terezamr/Cpp_Modules) (one of 42's common core projects).
 
 How to reach me: terezameloribeiro@gmail.com
 <!-- ...
